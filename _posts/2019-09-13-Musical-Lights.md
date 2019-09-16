@@ -34,6 +34,12 @@ and not flash at all while the second one was on.
 
 ![img](https://i.imgur.com/6pBYxvH.jpg)
 
+My lights weren't coming on so there was a problem with how I wired it. I asked Arnaub and he pointed out that it was merely because my resistor was flowing into the Arduino, causing it to short circuit. But Here it is rewired.
+
+![img(]https://i.imgur.com/QQPVmbk.jpg)
+
+I forgot my usb cable last week so I can't test if this works or not yet. Buuuut I will get there before class tomorrow, plug it into my computer, and try to get a video of it blinking in sync to the music. 
+
 
 
 
