@@ -3,6 +3,7 @@ Fun with Musical Lights
 ---
 
 
+
 My project idea initially started out with a basic vision for multiple lights that would somehow blink after one another or in some sort of organized sequence. 
 When I thought more about my personal experiences, I realized I could sync the lights together with music as I'd played piano for 10 years.
 I picked something that I found really fun to play back in the day, which was Beethoven's Fifth. 
