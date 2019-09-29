@@ -1,0 +1,1 @@
+Honestly at the start I had no idea what I wanted to create. I was considering something along the lines of a cool layout of manhatten and having the string of circles navigate the streets, but then I saw that Bailey already did a maze so I went and figured out what other thing I could make. 
