@@ -8,8 +8,8 @@ After I was done watching the tutorial I went ahead and customized the color eac
 
 Here's the final results:
 
-[img](https://i.imgur.com/nTfw4vg.png)
-[img](https://i.imgur.com/kWcHwV4.png)
-[img](https://i.imgur.com/ioDWQxJ.png)
-[img](https://i.imgur.com/j2IcwIT.png)
-[img](https://i.imgur.com/3EFfJOp.png)
+![img](https://i.imgur.com/nTfw4vg.png)
+![img](https://i.imgur.com/kWcHwV4.png)
+![img](https://i.imgur.com/ioDWQxJ.png)
+![img](https://i.imgur.com/j2IcwIT.png)
+![img](https://i.imgur.com/3EFfJOp.png)
