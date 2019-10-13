@@ -11,15 +11,20 @@ Now this was all good in theory especially since I finally found a microusb cabl
 
 20:
 
-![img]https://i.imgur.com/9Ntn2qZ.mp4
+![img](https://i.imgur.com/9Ntn2qZ.mp4)
 
-100:
+50:
+![img(]https://i.imgur.com/CFL5tGF.mp4)
 
-150:
+100: (Looks way slower than 50)
+![img](https://i.imgur.com/AqubOUA.mp4) 
 
 200:
+![img](https://i.imgur.com/CdhAR4l.mp4)
 
 255:
+![img](https://i.imgur.com/aYVNqpZ.mp4)
 
 1000000: 
+
 
