@@ -15,7 +15,7 @@ Now this was all good in theory especially since I finally found a microusb cabl
 ![img](https://i.imgur.com/9Ntn2qZ.mp4)
 
 50:
-![img(]https://i.imgur.com/CFL5tGF.mp4)
+![img(https://i.imgur.com/CFL5tGF.mp4)
 
 100: (Looks way slower than 50)
 ![img](https://i.imgur.com/AqubOUA.mp4) 
