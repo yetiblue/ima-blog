@@ -3,6 +3,7 @@ As I was looking into how to do transformations, I came across a Coding Train vi
 so I went and initialy attatched two rectangles 
 
 Like so:
+![img](https://i.imgur.com/RiHX8tu.png)
 
 
 I got it to rotate and played around with adding other lines and rectangles but none of those looked cool. Eventually I had the idea of putting a circle in the middle as like a wheel and I really liked the look of that. To make it prettier I used the random color command to make them flash and give people seizures. I then went back in the code and tried to figure out what I wanted to control using Serial. I decided that the speed in which the objects were rotating would be cool and so I'd just replace the value added onto 'angle' with 'data'. 
@@ -25,6 +26,7 @@ Now this was all good in theory especially since I finally found a microusb cabl
 255:
 ![img](https://i.imgur.com/aYVNqpZ.mp4)
 
-1000000: 
+1000000: (Make a small arc at the top of the spinning parts with your eyes to see it change directions!)
+![img](https://i.imgur.com/t7AfYKw.mp4)
 
 
