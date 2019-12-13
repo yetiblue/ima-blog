@@ -1,3 +1,7 @@
+---
+Physical Computing Final Project
+---
+
 My Idea for this final was conceived at the start of the semester when I was randomly browsing through public sculptures online. This Plastic monster was really cool in the sense that it definitely created the desired effect and served a bigger purpose than just looking cool. 
 
 Here it is: 
@@ -28,7 +32,7 @@ Next came the distance sensor - a fiendish device. Three days, three arduinos, a
 
 ![distance](https://i.imgur.com/lBXmQUf.jpg)
 ![distance2](https://i.imgur.com/r3NVcQt.jpg)
-https://imgur.com/WOyrZI6
+
 
 Last minute, I decided to swap out the sensor's function with a button and just manually try to emulate the effect it would've had. With much of my P5 code already written for serial read for the sensor, I only needed to change a few things there, and focused on discovering how to count button presses on the Arduino. I would now have the user step closer to the statue like before but I'd manually press the button to play the audio when they got within a certain range. 
 
