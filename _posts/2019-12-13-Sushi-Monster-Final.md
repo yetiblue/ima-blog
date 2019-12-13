@@ -62,6 +62,7 @@ Finally, the last thing was to actually build Chompy the Scottish Sushi Monster:
 Code:
 https://github.com/yetiblue/ima-blog/blob/master/_posts/SerialPy.py
 https://github.com/yetiblue/ima-blog/blob/master/_posts/sketch.js
+
 https://github.com/yetiblue/ima-blog/blob/master/_posts/sound.ino
 https://github.com/yetiblue/ima-blog/blob/master/_posts/pyserial/pyserial.ino
 
