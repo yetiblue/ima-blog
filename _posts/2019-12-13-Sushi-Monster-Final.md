@@ -11,6 +11,6 @@ When thinking of Ideas for my final, I added this idea to the end of list becaus
 The first day, I couldn't focus on the code side of things so I procrastinated by figuring out how exactly I was going to put all these sushi containers together. A couple hours later of trying to fight gravity with no glue, I came up with a concept that I liked and decided to finish protyping it by quickly drawing what was missing.
 
 
-[Built](https://i.imgur.com/RgHIx3i.jpg)
-[Drawn](https://i.imgur.com/z2eWtWO.jpg)
+![Built](https://i.imgur.com/RgHIx3i.jpg)
+![Drawn](https://i.imgur.com/z2eWtWO.jpg)
 
