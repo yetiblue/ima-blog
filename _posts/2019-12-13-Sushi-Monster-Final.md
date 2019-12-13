@@ -50,7 +50,7 @@ Here it is:
 
   The buttonCounter code worked successfully, but there were a couple bugs I didn't have time to deal with. The main issue being that if the counter was an even number, it would include the audio from previous counts. For example because 4 was a multiple of two, it would alternate between serial writing '4' and '2'. 
 
-
+![video](https://i.imgur.com/0RF253K.mp4)
 
 ---
 ---
