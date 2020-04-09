@@ -1,0 +1,66 @@
+
+
+<!-- var key = "43c35a6496msh427779128339c22p1226bfjsn4ce726f41d72" -->
+
+
+
+
+
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+<input id="search" ><button onclick="getrecipe(document.getElementById('search').value)">Search</button>
+<button onclick="getrecipe2()">Random Vegetarian</button>
+<div id="output"></div>
+<a href="" id="sourceLink"></a>
+<script>
+
+function getsource(id){
+$.ajax({
+url:"https://api.spoonacular.com/recipes/"+id+"/information?apiKey=b1de2ecb6a414637977c7ed4256e715e",
+success: function(res) {
+
+// document.getElementById("sourceLink").innerHTML=res.sourceUrl
+// document.getElementById("sourceLink").href=res.sourceUrl
+$('#sourceLink').html = res.sourceUrl;
+$('#sourceLink').href=res.sourceUrl;
+console.log(res);
+}
+});
+}
+function getrecipe(q){
+$.ajax({
+url:"https://api.spoonacular.com/recipes/search?apiKey=b1de2ecb6a414637977c7ed4256e715e&number=100&query="+q,
+success: function(res) {
+  $('#output').html("<h1>"+res.results[1].title+"</h1><br><img src='"+res.baseUri+res.results[2].image+"' width='400' /><br>Ready in "+res.results[2].readyInMinutes+" minutes")
+  getsource(res.results[2].id)
+  console.log(res.results)
+
+
+}
+});
+}
+
+var x;
+// console.log(x)
+function getrecipe2(){
+random_item()
+$.ajax({
+url:"https://api.spoonacular.com/recipes/search?apiKey=b1de2ecb6a414637977c7ed4256e715e&number=100&query=vegetarian",
+success: function(res) {
+  $('#output').html("<h1>"+res.results[x].title+"</h1><br><img src='"+res.baseUri+res.results[x].image+"' width='400' /><br>Ready in "+res.results[x].readyInMinutes+" minutes")
+  getsource(res.results[2].id)
+  console.log(res.results)
+
+
+}
+});
+}
+function random_item(){
+  x = (Math.floor(Math.random() * 101));
+
+
+}
+//replace 'search' with sushi or reaplce q with import
+//get the number of results for sushi total, then build a function to randomly srelect one of them.
+
+</script>
